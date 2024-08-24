@@ -12,7 +12,6 @@ This is a starter template for React projects using Vite as the bundler, PropTyp
 2. [Installation](#installation)
 3. [Additional Configuration](#additional-configuration)
 4. [Additional Resources](#additional-resources)
-5. [Author](#author)
 
 ## Template Structure
 
@@ -65,25 +64,24 @@ To start using this template, follow these steps:
 - **Tailwind CSS**:
   - Customize Tailwind settings such as adding custom colors in `tailwind.config.js`.
 - **You can add additional plugins like [DaisyUI](https://daisyui.com/docs/install/).**
+  - You can install DaisyUI using npm:
 
-  You can install DaisyUI using npm:
+    ```bash
+    npm i -D daisyui@latest
+    ```
 
-  ```bash
-  npm i -D daisyui@latest
-  ```
+    Then, add DaisyUI to your `tailwind.config.js` file:
 
-  Then, add DaisyUI to your `tailwind.config.js` file:
-
-  ```js
-  // tailwind.config.js
-  module.exports = {
-    content: ["./src/**/*.{js,jsx,ts,tsx}"],
-    theme: {
-      extend: {},
-    },
-    plugins: [require("daisyui")],
-  };
-  ```
+    ```js
+    // tailwind.config.js
+    module.exports = {
+      content: ["./src/**/*.{js,jsx,ts,tsx}"],
+      theme: {
+        extend: {},
+      },
+      plugins: [require("daisyui")],
+    };
+    ```
 
 ## Additional Resources
 
@@ -95,9 +93,7 @@ To start using this template, follow these steps:
 
 ---
 
-## Author
 
 [![Made by - Lucía Ordoñez Vilanova](https://img.shields.io/badge/LUCIA%20ORDO%C3%91EZ%20VILANOVA-gray?style=flat-square&label=MADE%20BY&color=fee440)](https://www.github.com/Luovtyrell)
-[@Luovtyrell](https://www.github.com/Luovtyrell)
 
 <a href="mailto:luciaorvilanova@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/luovtyrell" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn" /></a> <a href="https://t.me/luovtyrell" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-square" alt="Telegram" /></a> <a href="http://discordapp.com/users/664163194989707308" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square" alt="Discord" /></a>
