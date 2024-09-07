@@ -1,8 +1,8 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/2min-lightgreen?style=flat&logo=gitbook&logoColor=black&label=readtime">
+<img alt="Static Badge" src="https://img.shields.io/badge/2min-lightgreen?style=flat-square&logo=gitbook&logoColor=black&label=readtime">
 
 # React + Vite + PropTypes + React Router + Tailwind CSS Starter Template
 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" alt="React Badge"> <img alt="PropTypes Badge" src="https://img.shields.io/badge/PropTypes-lightblue?style=flat&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" alt="Vite Badge"> <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat" alt="React Router Badge"> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" alt="Tailwind CSS Badge">
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge"> <img alt="PropTypes Badge" src="https://img.shields.io/badge/PropTypes-lightblue?style=flat-square&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square" alt="Vite Badge"> <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat-square" alt="React Router Badge"> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square" alt="Tailwind CSS Badge">
 
 This is a starter template for React projects using Vite as the bundler, PropTypes for prop validation, React Router for routing, and Tailwind CSS for styling. It provides a basic and functional setup that you can use to kickstart your React project and save time.
 
