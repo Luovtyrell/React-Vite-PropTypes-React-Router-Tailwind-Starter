@@ -1,8 +1,7 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/2min-lightgreen?style=flat-square&logo=gitbook&logoColor=black&label=readtime">
-
 # React + Vite + PropTypes + React Router + Tailwind CSS Starter Template
 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge"> <img alt="PropTypes Badge" src="https://img.shields.io/badge/PropTypes-lightblue?style=flat-square&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square" alt="Vite Badge"> <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat-square" alt="React Router Badge"> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square" alt="Tailwind CSS Badge">
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" alt="React Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/PropTypes-lightblue?style=flat&logo=React&logoColor=black" alt="PropTypes Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" alt="Vite Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat" alt="React Router Badge" style="height: 23px;"> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" alt="Tailwind CSS Badge" style="height: 23px;">
+
 
 This is a starter template for React projects using Vite as the bundler, PropTypes for prop validation, React Router for routing, and Tailwind CSS for styling. It provides a basic and functional setup that you can use to kickstart your React project and save time.
 
@@ -94,6 +93,8 @@ To start using this template, follow these steps:
 ---
 
 
-[![Made by - Lucía Ordoñez Vilanova](https://img.shields.io/badge/LUCIA%20ORDO%C3%91EZ%20VILANOVA-gray?style=flat-square&label=MADE%20BY&color=fee440)](https://www.github.com/Luovtyrell)
+[![Lucía Ordoñez Vilanova](https://avatars.githubusercontent.com/u/153511070?v=4&s=100 "Lucía Ordoñez Vilanova's GitHub Avatar")](https://github.com/Luovtyrell) <a href="https://www.github.com/Luovtyrell"> <br>
+<img src="https://img.shields.io/badge/LUCIA%20ORDO%C3%91EZ%20VILANOVA-gray?style=flat&color=ffcf00"  height="30" alt="Made by Lucía Ordoñez Vilanova"/>
+</a>
 
-<a href="mailto:luciaorvilanova@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/luovtyrell" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn" /></a> <a href="https://t.me/luovtyrell" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-square" alt="Telegram" /></a> <a href="http://discordapp.com/users/664163194989707308" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square" alt="Discord" /></a>
+<a href="mailto:luciaorvilanova@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat"  height="23" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/luovtyrell" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" height="23" alt="LinkedIn" /></a> <a href="https://t.me/luovtyrell" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat" height="23" alt="Telegram" /></a> <a href="http://discordapp.com/users/664163194989707308" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat" height="23" alt="Discord" /></a> 
