@@ -5,11 +5,17 @@
 
 This is a starter template for React projects using Vite as the bundler, PropTypes for prop validation, React Router for routing, and Tailwind CSS for styling. It provides a basic and functional setup that you can use to kickstart your React project and save time.
 
+**Updated to support:**
+- **React 19**
+- **Tailwind CSS 4**
+- **DaisyUI 5**
+- **React Router 7**
+
 ## Table of Contents
 
 1. [Template Structure](#template-structure)
 2. [Installation](#installation)
-3. [Additional Configuration](#additional-configuration)
+3. [Configuration](#configuration)
 4. [Additional Resources](#additional-resources)
 
 ## Template Structure
@@ -26,7 +32,7 @@ This is a starter template for React projects using Vite as the bundler, PropTyp
 
 - **`src/routes/AppRoutes.jsx`**: Route configuration for the application.
 
-- **`src/styles/index.css`**: Contains Tailwind CSS imports and a commented base layer if needed.
+- **`src/index.css`**: Contains Tailwind CSS imports and DaisyUI plugin configuration.
 
 ## Installation
 
@@ -58,29 +64,20 @@ To start using this template, follow these steps:
 
    This will start the development server, and you can view the application at `http://localhost:3000` (or the configured port).
 
-## Additional Configuration
+## Configuration
 
-- **Tailwind CSS**:
-  - Customize Tailwind settings such as adding custom colors in `tailwind.config.js`.
-- **You can add additional plugins like [DaisyUI](https://daisyui.com/docs/install/).**
-  - You can install DaisyUI using npm:
+### Tailwind CSS 4 & DaisyUI 5
 
-    ```bash
-    npm i -D daisyui@latest
-    ```
+This project uses **Tailwind CSS 4**, which is configured directly in CSS.
 
-    Then, add DaisyUI to your `tailwind.config.js` file:
+**`src/index.css`**:
+```css
+@import "tailwindcss";
+@plugin "daisyui";
+```
 
-    ```js
-    // tailwind.config.js
-    module.exports = {
-      content: ["./src/**/*.{js,jsx,ts,tsx}"],
-      theme: {
-        extend: {},
-      },
-      plugins: [require("daisyui")],
-    };
-    ```
+No `tailwind.config.js` or `postcss.config.js` is required for this setup.
+DaisyUI 5 is included as a CSS plugin.
 
 ## Additional Resources
 
